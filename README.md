@@ -1,2 +1,2 @@
 # TestSite
-This is a test. Only a test.
+This is a test.
